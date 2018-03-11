@@ -103,8 +103,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Api calls.
+2. Api call errors
 
 ## Video Walkthrough
 
@@ -116,8 +116,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Figuring out what some api call errors meant
 ## License
 
     Copyright [yyyy] [name of copyright owner]
